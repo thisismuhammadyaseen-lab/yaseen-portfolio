@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #080b14;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
